@@ -81,7 +81,7 @@ class _Sign_Up_PageState extends State<Sign_Up_Page> {
                 color: Color(0xffEEEEEE),
                 child: Padding(
                   padding:
-                      const EdgeInsets.only(left: 20.0, top: 10, bottom: 0),
+                      const EdgeInsets.only(left: 20.0, top: 35, bottom: 0),
                   child: Column(
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
